@@ -1,0 +1,15 @@
+current directory: /Users/tobiasato/workspace/videomeeting/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+/Users/tobiasato/.rbenv/versions/2.6.3/bin/ruby -I /Users/tobiasato/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190708-70648-daunol.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tobiasato/workspace/videomeeting/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/tobiasato/workspace/videomeeting/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/tobiasato/workspace/videomeeting/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190708-70648-1nwr9sb/skiptrace
