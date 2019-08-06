@@ -46,6 +46,7 @@ gem 'administrate'
 gem 'haml-rails'
 gem 'bootstrap'
 gem 'jquery-rails'
+gem 'react_on_rails', '11.1.4'
 
 group :development, :test do
   gem 'rspec-rails'
